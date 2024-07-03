@@ -2,6 +2,11 @@
 
 # Flash-Chat
 
+![image](https://github.com/cagataykalkan/Flash-Chat-iOS13/assets/95551940/56098c8f-865d-4486-ba0a-2a8ae7823108)   
+![image](https://github.com/cagataykalkan/Flash-Chat-iOS13/assets/95551940/b88dd14c-9100-45dd-a896-fbe17576c8c7)
+
+
+
 ## Our Goal
 
 One of the most fundamental component of modern iOS apps is the Table View. Table Views are used everywhere from the Mail app to the Messages app. It’s a crucial part of every iOS developer’s tool belt. In this tutorial we’ll be getting to grips with Table Views, creating custom cells, and making our own cloud-based backend database. It’s going to be epic, so buckle up.
